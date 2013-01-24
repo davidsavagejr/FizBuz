@@ -1,0 +1,8 @@
+c:\users\dave\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\dave\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\dave\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\dave\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\FizBuz.dll
+c:\users\dave\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\FizBuz.pdb
+c:\users\dave\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\FizBuz.Console.csprojResolveAssemblyReference.cache
+c:\users\dave\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\dave\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

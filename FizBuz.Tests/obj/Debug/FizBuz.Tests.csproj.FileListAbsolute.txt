@@ -1,0 +1,7 @@
+c:\users\dave\documents\visual studio 2012\Projects\ConsoleApplication1\FizBuz.Tests\bin\Debug\FizBuz.Tests.dll
+c:\users\dave\documents\visual studio 2012\Projects\ConsoleApplication1\FizBuz.Tests\bin\Debug\FizBuz.Tests.pdb
+c:\users\dave\documents\visual studio 2012\Projects\ConsoleApplication1\FizBuz.Tests\obj\Debug\FizBuz.Tests.csprojResolveAssemblyReference.cache
+c:\users\dave\documents\visual studio 2012\Projects\ConsoleApplication1\FizBuz.Tests\obj\Debug\FizBuz.Tests.dll
+c:\users\dave\documents\visual studio 2012\Projects\ConsoleApplication1\FizBuz.Tests\obj\Debug\FizBuz.Tests.pdb
+c:\users\dave\documents\visual studio 2012\Projects\ConsoleApplication1\FizBuz.Tests\bin\Debug\FizBuz.dll
+c:\users\dave\documents\visual studio 2012\Projects\ConsoleApplication1\FizBuz.Tests\bin\Debug\FizBuz.pdb
